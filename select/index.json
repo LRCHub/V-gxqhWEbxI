@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "そんなbitterな話",
+  "base_artist": "Vaundy",
+  "createdAt": "2025-12-15T12:15:47.911976Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "そんなbitterな話",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/01_そんなbitterな話_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "そんなbitterな話 - sonna bitter na hanashi",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/02_そんなbitterな話_-_sonna_bitter_na_hanashi_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "そんなbitterな話",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/03_そんなbitterな話_Vaundy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "そんなbitterな話",
+      "artist": "Vaundy",
+      "has_synced": false,
+      "path": "select/pl_01_そんなbitterな話_Vaundy.txt"
+    }
+  ]
+}
